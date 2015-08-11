@@ -1,6 +1,6 @@
 # Rent a dog
 
-Rent a dog now!
+Doggie Delivery!
 
 To get started, download AWS SDK for Java (with Eclipse), and build a WAR file to test on Tomcat in your local machine. Your credentials should be specified in src/AwsCredentials.properties
 
