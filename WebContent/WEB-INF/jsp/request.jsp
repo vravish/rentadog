@@ -14,11 +14,11 @@
 		<table>
 			<!-- temporary until we add login information -->
 			<tr>
-				<td><form:label path="userid">UserID</form:label></td>
+				<td><form:label path="userid">Customer Username</form:label></td>
 				<td><form:input path="userid" /></td>
 			</tr>
 			<tr>
-				<td><form:label path="breed">Breed</form:label></td>
+				<td><form:label path="breed">Dog Type</form:label></td>
 				<td><form:input path="breed" /></td>
 			</tr>
 			<tr>
